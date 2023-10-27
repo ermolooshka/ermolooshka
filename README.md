@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with test automation
 - 📫 Reach me by
     - gmail: ermolinaira666@gmail.com
-    - Telegram: ermolooshka
+    - Telegram: [https://t.me/ermolooshka](ermolooshka)
 
