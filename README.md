@@ -3,11 +3,16 @@
 ### Manual tester from Samara
 
  ###  About me
+ 
 
-- 🔭 I’m currently working on an online mental map editor **Mind in Map**
-- 🌱 I’m currently learning Python programming language
-- 🤔 I’m looking for help with test automation
-- 📫 Reach me by
-    - gmail: ermolinaira666@gmail.com
+- 🎓 Graduated from SkillFactory school with a degree in QAP.
+- 🔭 Now I'm working on an online mind map editor **Mind in Map**
+- 📚 Now I continue to study Python, read literature to improve my testing skills
+
+- 📫 Contact me at
+    - email: ermolinaira666@gmail.com
     - Telegram: [ermolooshka](https://t.me/ermolooshka)
 
+
+ 
+- 📌 My practical and final papers written in the Python programming language are stored here.
