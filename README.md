@@ -5,7 +5,7 @@
  ###  About me
  
 
-- 🎓 Graduated from SkillFactory school with a degree in QAP.
+- 🎓 Graduated from SkillFactory school with a degree in QAP
 - 🔭 Now I'm working on an online mind map editor [Mind in Map](https://minm.pro/) 
 - 📚 Now I continue to study Python, read literature to improve my testing skills
 
