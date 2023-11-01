@@ -6,12 +6,12 @@
  
 
 - 🎓 Graduated from SkillFactory school with a degree in QAP
-- 🔭 Now I'm working on an online mind map editor [Mind in Map](https://minm.pro/) 
+- ✏️ Now I'm working on an online mind map editor [Mind in Map](https://minm.pro/) 
 - 📚 Now I continue to study Python, read literature to improve my testing skills
 
 - 📫 Contact me at:
-    - email: ermolinaira666@gmail.com
-    - Telegram: [ermolooshka](https://t.me/ermolooshka)
+    - ✉️ email: ermolinaira666@gmail.com
+    - 📞 Telegram: [ermolooshka](https://t.me/ermolooshka)
 
 
  
