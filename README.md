@@ -14,4 +14,4 @@
 
 
  
-- 📌 My practical and final papers written in the Python programming language are stored here.
+- 📌 My practical papers written in the Python programming language are stored here.
