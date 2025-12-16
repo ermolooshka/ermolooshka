@@ -1,13 +1,12 @@
 ##  Hi there, I am Irina!
 
-### Manual tester from Samara
+### Manual tester from Russia
 
  ###  About me
  
-
-- 🎓 Graduated from SkillFactory school with a degree in QAP
-- ✏️ Now I'm working on an online mind map editor [Mind in Map](https://minm.pro/) 
-- 📚 Now I continue to study Python, read literature to improve my testing skills
+- 🎓 Graduated school with a degree in QAP
+- ✏️ I worked on an online mind map editor, a website for an online home appliance boutique
+- 👔 Now I work in a large technology company in Russia
 
 - 📫 Contact me at:
     - ✉️ email: ermolinaira666@gmail.com
