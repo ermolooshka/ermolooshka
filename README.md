@@ -7,7 +7,7 @@
 
 ### About me
 
-Hello! I'm a tester. I enjoy exploring new products, finding their weak spots, and making them better. Although I mostly work manually, I'm actively learning automation and coding in **Python** — both for work and for fun.
+Hello! I'm a tester. I enjoy exploring new products, finding their weak spots, and making them better. Although I mostly work manually, I'm actively learning automation and coding in **Python** - both for work and for fun.
 
 - 🎓 Graduated from university with a degree in Quality Assurance.
 - 📚 During my self-study in testing, I worked on various projects including:
